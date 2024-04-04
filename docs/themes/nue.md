@@ -154,14 +154,14 @@ sidebar_position: 3
 
 ![Form Button](./nue-assets/form_button.png)
 
-## Form
+## Product form checkout
 
 ```css
-.form_checkout {
+.product_form_checkout {
 }
 ```
 
-![Form](./nue-assets/form_checkout.png)
+![Form](./nue-assets/product_form_checkout.png)
 
 ## Total shipping cost
 

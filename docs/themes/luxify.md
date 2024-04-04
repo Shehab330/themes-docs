@@ -160,14 +160,14 @@ sidebar_position: 2
 
 ![Form Button](./luxify-assets/form_button.png)
 
-## Form
+## Product form checkout
 
 ```css
-.form_checkout {
+.product_form_checkout {
 }
 ```
 
-![Form](./luxify-assets/form_checkout.png)
+![Form](./luxify-assets/product_form_checkout.png)
 
 ## Total shipping cost
 

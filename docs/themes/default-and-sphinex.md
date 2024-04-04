@@ -178,14 +178,14 @@ sidebar_position: 1
 
 ![Form Button](./img/form_button.png)
 
-## Form
+## Product form checkout
 
 ```css
-.form_checkout {
+.product_form_checkout {
 }
 ```
 
-![Form](./img/form_checkout.png)
+![Form](./img/product_form_checkout.png)
 
 ## Total shipping cost
 
