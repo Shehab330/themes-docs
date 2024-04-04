@@ -160,6 +160,18 @@ sidebar_position: 2
 
 ![Form Button](./luxify-assets/form_button.png)
 
+### Quantity button
+
+```css
+.quantity_container {
+}
+
+.quantity_btn {
+}
+```
+
+![Quantity Button](./luxify-assets/quantity_btn.png)
+
 ## Product form checkout
 
 ```css

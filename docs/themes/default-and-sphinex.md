@@ -178,6 +178,18 @@ sidebar_position: 1
 
 ![Form Button](./img/form_button.png)
 
+### Quantity button
+
+```css
+.quantity_container {
+}
+
+.quantity_btn {
+}
+```
+
+![Quantity Button](./img/quantity_btn.png)
+
 ## Product form checkout
 
 ```css

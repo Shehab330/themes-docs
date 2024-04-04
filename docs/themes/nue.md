@@ -154,6 +154,18 @@ sidebar_position: 3
 
 ![Form Button](./nue-assets/form_button.png)
 
+### Quantity button
+
+```css
+.quantity_container {
+}
+
+.quantity_btn {
+}
+```
+
+![Quantity Button](./nue-assets/quantity_btn.png)
+
 ## Product form checkout
 
 ```css
