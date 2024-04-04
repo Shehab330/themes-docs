@@ -187,6 +187,32 @@ sidebar_position: 3
 
 ![Total Price](./nue-assets/total_price.png)
 
+## Category page
+
+### Category section header
+
+```css
+.category_section_header {
+}
+
+.category_section_header_title {
+}
+```
+
+![Category Section Header](./nue-assets/category_section_header.png)
+
+### category products grid
+
+```css
+.category_products_grid_container {
+}
+
+.category_products_grid_card {
+}
+```
+
+![Category Products Grid](./nue-assets/category_products_grid.png)
+
 ## Global
 
 ### Header

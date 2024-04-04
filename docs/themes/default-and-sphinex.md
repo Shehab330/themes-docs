@@ -211,6 +211,32 @@ sidebar_position: 1
 
 ![Total Price](./img/total_price.png)
 
+## Category page
+
+### Category section header
+
+```css
+.category_section_header {
+}
+
+.category_section_header_title {
+}
+```
+
+![Category Section Header](./img/category_section_header.png)
+
+### Category products grid
+
+```css
+.category_products_grid_container {
+}
+
+.category_products_grid_card {
+}
+```
+
+![Category Products Grid](./img/category_products_grid.png)
+
 ## Global
 
 ### Default Header

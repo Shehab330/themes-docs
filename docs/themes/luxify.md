@@ -193,6 +193,32 @@ sidebar_position: 2
 
 ![Total Price](./luxify-assets/total_price.png)
 
+## Category page
+
+### Category section header
+
+```css
+.category_section_header {
+}
+
+.category_section_header_title {
+}
+```
+
+![Category Section Header](./luxify-assets/category_section_header.png)
+
+### Category products grid
+
+```css
+.category_products_grid_container {
+}
+
+.category_products_grid_card {
+}
+```
+
+![Category Products Grid](./luxify-assets/category_products_grid.png)
+
 ## Global
 
 ### Header
