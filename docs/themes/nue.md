@@ -248,6 +248,9 @@ sidebar_position: 3
 ### Footer
 
 ```css
+.nue_footer {
+}
+
 .nue_footer_links_container {
 }
 

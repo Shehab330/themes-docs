@@ -261,6 +261,9 @@ sidebar_position: 2
 ### Footer
 
 ```css
+.luxify_footer {
+}
+
 .luxify_footer_links_container {
 }
 

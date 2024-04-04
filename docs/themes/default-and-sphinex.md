@@ -309,6 +309,8 @@ sidebar_position: 1
 ### Footer
 
 ```css
+.default_footer {
+}
 .default_footer_links_container {
 }
 
