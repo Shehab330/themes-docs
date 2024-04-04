@@ -58,19 +58,19 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Easy Orders",
       logo: {
         alt: "My Site Logo",
-        src: "img/logo.svg",
+        src: "img/easy-icon.png",
       },
-      items: [
-        {
-          type: "doc",
-          docId: "intro",
-          position: "left",
-          label: "Tutorial",
-        },
-      ],
+      // items: [
+      //   {
+      //     type: "doc",
+      //     docId: "intro",
+      //     position: "left",
+      //     label: "Tutorial",
+      //   },
+      // ],
     },
     // footer: {
     //   style: 'dark',
