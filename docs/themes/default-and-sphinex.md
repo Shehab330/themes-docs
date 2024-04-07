@@ -155,6 +155,15 @@ sidebar_position: 1
 
 ![Sphinx Product Image](./img/sphinx_product_img.png)
 
+### Product form checkout
+
+```css
+.product_form_checkout {
+}
+```
+
+![Form](./img/product_form_checkout.png)
+
 ## Buttons
 
 ### Checkout button and add to cart button
@@ -189,15 +198,6 @@ sidebar_position: 1
 ```
 
 ![Quantity Button](./img/quantity_btn.png)
-
-## Product form checkout
-
-```css
-.product_form_checkout {
-}
-```
-
-![Form](./img/product_form_checkout.png)
 
 ## Total shipping cost
 

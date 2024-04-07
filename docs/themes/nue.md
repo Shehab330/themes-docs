@@ -131,6 +131,15 @@ sidebar_position: 3
 
 ![Product Image](./nue-assets/nue_product_img.png)
 
+### Product form checkout
+
+```css
+.product_form_checkout {
+}
+```
+
+![Form](./nue-assets/product_form_checkout.png)
+
 ## Buttons
 
 ### Checkout button and add to cart button
@@ -165,15 +174,6 @@ sidebar_position: 3
 ```
 
 ![Quantity Button](./nue-assets/quantity_btn.png)
-
-## Product form checkout
-
-```css
-.product_form_checkout {
-}
-```
-
-![Form](./nue-assets/product_form_checkout.png)
 
 ## Total shipping cost
 

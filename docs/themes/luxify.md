@@ -137,6 +137,15 @@ sidebar_position: 2
 
 ![Product Image](./luxify-assets/product_images.png)
 
+### Product form checkout
+
+```css
+.product_form_checkout {
+}
+```
+
+![Form](./luxify-assets/product_form_checkout.png)
+
 ## Buttons
 
 ### Checkout button and add to cart button
@@ -171,15 +180,6 @@ sidebar_position: 2
 ```
 
 ![Quantity Button](./luxify-assets/quantity_btn.png)
-
-## Product form checkout
-
-```css
-.product_form_checkout {
-}
-```
-
-![Form](./luxify-assets/product_form_checkout.png)
 
 ## Total shipping cost
 
