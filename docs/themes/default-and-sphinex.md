@@ -164,6 +164,21 @@ sidebar_position: 1
 
 ![Form](./img/product_form_checkout.png)
 
+### Fake Stock
+
+```css
+.fake_stock_container {
+}
+
+.fake_stock_progress {
+}
+
+.fake_stock_count {
+}
+```
+
+![Fake Stock](./img/fake_stock.png)
+
 ## Inputs, textarea
 
 ```css

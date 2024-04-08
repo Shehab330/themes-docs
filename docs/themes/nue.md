@@ -140,6 +140,21 @@ sidebar_position: 3
 
 ![Form](./nue-assets/product_form_checkout.png)
 
+### Fake Stock
+
+```css
+.fake_stock_container {
+}
+
+.fake_stock_progress {
+}
+
+.fake_stock_count {
+}
+```
+
+![Fake Stock](./nue-assets/fake_stock.png)
+
 ## Inputs, textarea
 
 ```css

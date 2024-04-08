@@ -146,6 +146,21 @@ sidebar_position: 2
 
 ![Form](./luxify-assets/product_form_checkout.png)
 
+### Fake Stock
+
+```css
+.fake_stock_container {
+}
+
+.fake_stock_progress {
+}
+
+.fake_stock_count {
+}
+```
+
+![Fake Stock](./luxify-assets/fake_stock.png)
+
 ## Inputs, textarea
 
 ```css
