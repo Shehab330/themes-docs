@@ -182,6 +182,27 @@ sidebar_position: 2
 
 ![Product Page Products Grid](./luxify-assets/products_grid.png)
 
+### Product reviews
+
+```css
+.reviews_summary {
+}
+
+.user_review_content {
+}
+
+.user_review_name {
+}
+
+.user_review_comment {
+}
+
+.user_review_img {
+}
+```
+
+![Product Reviews](./luxify-assets/product_reviews.png)
+
 ## Inputs, textarea
 
 ```css

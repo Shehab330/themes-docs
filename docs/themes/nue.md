@@ -176,6 +176,36 @@ sidebar_position: 3
 
 ![Product Page Products Grid](./nue-assets/products_grid.png)
 
+### Product reviews
+
+```css
+.reviews_container {
+}
+
+.reviews_summary {
+}
+
+.reviews_carousel {
+}
+
+.user_review {
+}
+
+.user_review_name {
+}
+
+.user_review_stars {
+}
+
+.user_review_comment {
+}
+
+.user_review_img {
+}
+```
+
+![Product Reviews](./nue-assets/product_reviews.png)
+
 ## Inputs, textarea
 
 ```css

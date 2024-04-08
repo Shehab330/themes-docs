@@ -200,6 +200,33 @@ sidebar_position: 1
 
 ![Product Page Products Grid](./img/products_grid.png)
 
+### Product reviews
+
+```css
+.reviews_container {
+}
+
+.reviews_summary {
+}
+
+.user_reviews_container {
+}
+
+.user_review {
+}
+
+.user_review_name {
+}
+
+.user_review_comment {
+}
+
+.user_review_img {
+}
+```
+
+![Product Reviews](./img/reviews.png)
+
 ## Inputs, textarea
 
 ```css
