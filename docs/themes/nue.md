@@ -140,6 +140,21 @@ sidebar_position: 3
 
 ![Form](./nue-assets/product_form_checkout.png)
 
+## Inputs, textarea
+
+```css
+.global_input {
+}
+
+.global_textarea {
+}
+
+.gov_select {
+}
+```
+
+![Inputs](./nue-assets/inputs.png)
+
 ## Buttons
 
 ### Checkout button and add to cart button

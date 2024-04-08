@@ -164,6 +164,21 @@ sidebar_position: 1
 
 ![Form](./img/product_form_checkout.png)
 
+## Inputs, textarea
+
+```css
+.global_input {
+}
+
+.global_textarea {
+}
+
+.gov_select {
+}
+```
+
+![Inputs](./img/inputs.png)
+
 ## Buttons
 
 ### Checkout button and add to cart button
@@ -366,3 +381,7 @@ The following classes are used for the global slider component so every slider i
 
 ![Slider](./img/global_slider.png)
 ![slider-pagination](./img/slider_pagination.png)
+
+```
+
+```

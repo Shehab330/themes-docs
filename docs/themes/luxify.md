@@ -146,6 +146,21 @@ sidebar_position: 2
 
 ![Form](./luxify-assets/product_form_checkout.png)
 
+## Inputs, textarea
+
+```css
+.global_input {
+}
+
+.global_textarea {
+}
+
+.gov_select {
+}
+```
+
+![Inputs](./luxify-assets/inputs.png)
+
 ## Buttons
 
 ### Checkout button and add to cart button
