@@ -164,6 +164,18 @@ sidebar_position: 3
 
 ![Fake Visitors](./nue-assets/fake_visitors.png)
 
+### Products grid
+
+```css
+.products_grid_container {
+}
+
+.products_grid_card {
+}
+```
+
+![Product Page Products Grid](./nue-assets/products_grid.png)
+
 ## Inputs, textarea
 
 ```css

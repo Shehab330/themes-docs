@@ -188,6 +188,18 @@ sidebar_position: 1
 
 ![Fake Visitors](./img/fake_visitors.png)
 
+### Products grid
+
+```css
+.products_grid_container {
+}
+
+.products_grid_card {
+}
+```
+
+![Product Page Products Grid](./img/products_grid.png)
+
 ## Inputs, textarea
 
 ```css
