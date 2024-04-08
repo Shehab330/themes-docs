@@ -421,3 +421,18 @@ The following classes are used for the global slider component so every slider i
 ```
 
 ![Payments](./luxify-assets/payments.png)
+
+## Thanks page
+
+```css
+.thanks_content {
+}
+
+.thanks_container {
+}
+
+.order_invoice_container {
+}
+```
+
+![Thanks Page](./luxify-assets/thanks_page.png)
