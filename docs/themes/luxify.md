@@ -334,3 +334,33 @@ The following classes are used for the global slider component so every slider i
 
 ![Slider](./luxify-assets/global_slider.png)
 ![slider-pagination](./luxify-assets/slider_pagination.png)
+
+### Payments
+
+```css
+.payments_container {
+}
+
+.payment_card {
+}
+
+.radio_container {
+}
+
+.radio_circle {
+}
+
+.payment_card_content {
+}
+
+.payment_card_name {
+}
+
+.payment_card_description {
+}
+
+.payment_card_img {
+}
+```
+
+![Payments](./luxify-assets/payments.png)

@@ -382,6 +382,32 @@ The following classes are used for the global slider component so every slider i
 ![Slider](./img/global_slider.png)
 ![slider-pagination](./img/slider_pagination.png)
 
+### Payments
+
+```css
+.payments_container {
+}
+
+.payment_card {
+}
+
+.radio_container {
+}
+
+.radio_circle {
+}
+
+.payment_card_content {
+}
+
+.payment_card_name {
+}
+
+.payment_card_description {
+}
+
+.payment_card_img {
+}
 ```
 
-```
+![Payments](./img/payments.png)
