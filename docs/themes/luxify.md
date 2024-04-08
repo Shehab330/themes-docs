@@ -161,6 +161,15 @@ sidebar_position: 2
 
 ![Fake Stock](./luxify-assets/fake_stock.png)
 
+### Fake visitors
+
+```css
+.fake_visitors_container {
+}
+```
+
+![Fake Visitors](./luxify-assets/fake_visitors.png)
+
 ## Inputs, textarea
 
 ```css

@@ -155,6 +155,15 @@ sidebar_position: 3
 
 ![Fake Stock](./nue-assets/fake_stock.png)
 
+### Fake visitors
+
+```css
+.fake_visitors_container {
+}
+```
+
+![Fake Visitors](./nue-assets/fake_visitors.png)
+
 ## Inputs, textarea
 
 ```css

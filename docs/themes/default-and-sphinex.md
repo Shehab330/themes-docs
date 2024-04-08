@@ -179,6 +179,15 @@ sidebar_position: 1
 
 ![Fake Stock](./img/fake_stock.png)
 
+### Fake visitors
+
+```css
+.fake_visitors_container {
+}
+```
+
+![Fake Visitors](./img/fake_visitors.png)
+
 ## Inputs, textarea
 
 ```css
