@@ -13,7 +13,9 @@ sidebar_position: 1
 
 ![Container](./img/container-class.png)
 
-## Home slider
+## Home page
+
+### Home slider
 
 ```css title="Home Slider"
 .home_slider_container {
@@ -28,7 +30,7 @@ sidebar_position: 1
 
 ![Home Slider Container](./img/home_slider.png)
 
-## Home section title
+### Home section title
 
 ```css
 .home_section_top_container {
@@ -40,7 +42,7 @@ sidebar_position: 1
 
 ![Home Section Top](./img/home_section_top.png)
 
-## Category Card
+### Category Card
 
 ```css
 .default_category_card {
@@ -55,7 +57,7 @@ sidebar_position: 1
 
 ![Category Card](./img/default_category_card.png)
 
-## Featured Card
+### Featured Card
 
 ```css
 .default_product_featured_container {
@@ -70,7 +72,7 @@ sidebar_position: 1
 
 ![Featured Card](./img/default_product_featured_card.png)
 
-## Product list
+### Product list
 
 ```css
 .default_product_list_container {
@@ -82,7 +84,7 @@ sidebar_position: 1
 
 ![Product List](./img/default_product_list.png)
 
-## Home products grid
+### Home products grid
 
 ```css
 .home_products_grid_container {
@@ -94,7 +96,7 @@ sidebar_position: 1
 
 ![Home Products Grid](./img/home_products_grid.png)
 
-## Home banner
+### Home banner
 
 ```css
 .home_banner {

@@ -4,7 +4,9 @@ sidebar_position: 3
 
 # Nue Theme -brutal-
 
-## Home Slider
+## Home page
+
+### Home Slider
 
 ```css title="Home Slider"
 .home_slider_container {
@@ -19,7 +21,7 @@ sidebar_position: 3
 
 ![Home Slider Container](./img/home_slider.png)
 
-## Home section title
+### Home section title
 
 ```css
 .home_section_top_container {
@@ -31,7 +33,7 @@ sidebar_position: 3
 
 ![Home Section Top](./nue-assets/home_section_top.png)
 
-## Category Card
+### Category Card
 
 ```css
 .nue_category_card {
@@ -46,7 +48,7 @@ sidebar_position: 3
 
 ![Category Card](./nue-assets/nue_category_card.png)
 
-## Featured Card
+### Featured Card
 
 ```css
 .nue_product_featured_container {
@@ -61,7 +63,7 @@ sidebar_position: 3
 
 ![Featured Card](./nue-assets/nue_product_featured_card.png)
 
-## Home product carousel
+### Home product carousel
 
 ```css
 .home_products_carousel_card {
@@ -70,7 +72,7 @@ sidebar_position: 3
 
 ![Home product carousel](./nue-assets/home_products_carousel.png)
 
-## Home products grid
+### Home products grid
 
 ```css
 .home_products_grid_container {
@@ -82,7 +84,7 @@ sidebar_position: 3
 
 ![Home Products Grid](./nue-assets/home_products_grid.png)
 
-## Home banner
+### Home banner
 
 ```css
 .home_banner {
