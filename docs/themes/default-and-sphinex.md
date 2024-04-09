@@ -489,3 +489,30 @@ The following classes are used for the global slider component so every slider i
 ```
 
 ![Thanks Page](./img/thanks_page.png)
+
+## Checkout page
+
+```css
+.checkout_bg_right {
+}
+
+.checkout_bg_left {
+}
+
+.checkout_container {
+}
+
+.checkout_order_summary {
+}
+
+.checkout_cart_items_container {
+}
+
+.checkout_form {
+}
+
+.checkout_buy_now {
+}
+```
+
+![Checkout Page](./img/checkout.png)
