@@ -142,6 +142,30 @@ sidebar_position: 3
 
 ![Form](./nue-assets/product_form_checkout.png)
 
+## Total shipping cost
+
+```css
+.total_shipping_container {
+}
+
+.total_shipping {
+}
+```
+
+![Total Shipping](./nue-assets/shipping_cost.png)
+
+## Total price
+
+```css
+.total_price_container {
+}
+
+.total_price {
+}
+```
+
+![Total Price](./nue-assets/total_price.png)
+
 ### Fake Stock
 
 ```css
@@ -257,30 +281,6 @@ sidebar_position: 3
 ```
 
 ![Quantity Button](./nue-assets/quantity_btn.png)
-
-## Total shipping cost
-
-```css
-.total_shipping_container {
-}
-
-.total_shipping {
-}
-```
-
-![Total Shipping](./nue-assets/shipping_cost.png)
-
-## Total price
-
-```css
-.total_price_container {
-}
-
-.total_price {
-}
-```
-
-![Total Price](./nue-assets/total_price.png)
 
 ## Category page
 

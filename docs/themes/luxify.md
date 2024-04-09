@@ -148,6 +148,30 @@ sidebar_position: 2
 
 ![Form](./luxify-assets/product_form_checkout.png)
 
+### Total shipping cost
+
+```css
+.total_shipping_container {
+}
+
+.total_shipping {
+}
+```
+
+![Total Shipping](./luxify-assets/shipping_cost.png)
+
+### Total price
+
+```css
+.total_price_container {
+}
+
+.total_price {
+}
+```
+
+![Total Price](./luxify-assets/total_price.png)
+
 ### Fake Stock
 
 ```css
@@ -254,30 +278,6 @@ sidebar_position: 2
 ```
 
 ![Quantity Button](./luxify-assets/quantity_btn.png)
-
-## Total shipping cost
-
-```css
-.total_shipping_container {
-}
-
-.total_shipping {
-}
-```
-
-![Total Shipping](./luxify-assets/shipping_cost.png)
-
-## Total price
-
-```css
-.total_price_container {
-}
-
-.total_price {
-}
-```
-
-![Total Price](./luxify-assets/total_price.png)
 
 ## Category page
 

@@ -166,6 +166,30 @@ sidebar_position: 1
 
 ![Form](./img/product_form_checkout.png)
 
+### Total shipping cost
+
+```css
+.total_shipping_container {
+}
+
+.total_shipping {
+}
+```
+
+![Total Shipping](./img/shipping_cost.png)
+
+### Total price
+
+```css
+.total_price_container {
+}
+
+.total_price {
+}
+```
+
+![Total Price](./img/total_price.png)
+
 ### Fake Stock
 
 ```css
@@ -278,30 +302,6 @@ sidebar_position: 1
 ```
 
 ![Quantity Button](./img/quantity_btn.png)
-
-## Total shipping cost
-
-```css
-.total_shipping_container {
-}
-
-.total_shipping {
-}
-```
-
-![Total Shipping](./img/shipping_cost.png)
-
-## Total price
-
-```css
-.total_price_container {
-}
-
-.total_price {
-}
-```
-
-![Total Price](./img/total_price.png)
 
 ## Category page
 
