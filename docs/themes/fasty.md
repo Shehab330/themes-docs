@@ -11,7 +11,7 @@ sidebar_position: 4
 }
 ```
 
-![Container](./img/container-class.png)
+![Container](./fasty-assets/container-class.png)
 
 ## Home page
 
@@ -415,78 +415,30 @@ The card classes are used in the global fasty card component
 
 ## Global
 
-### Default Header
+### Header
 
 ```css
-.default_header {
+.fasty_header {
+}
+
+.fasty_header_top_text {
+}
+
+.fasty_header_container {
+}
+
+.fasty_header_logo {
 }
 ```
 
-![Header](./img/default_header.png)
-
-```css
-.default_header_top_text {
-}
-```
-
-![Header Top Text](./img/default_header_top_text.png)
-
-```css
-.default_header_container {
-}
-```
-
-![Header Container](./img/default_header_container.png)
-
-```css
-.default_header_logo {
-}
-```
-
-![Header Logo](./img/default_header_logo.png)
-
-### Sphinx Header
-
-```css
-.sphinx_header {
-}
-```
-
-![Sphinx Header](./img/sphinx_header.png)
-
-```css
-.sphinx_header_container {
-}
-```
-
-![Sphinx Header Container](./img/sphinx_header_container.png)
-
-```css
-.sphinx_header_top_text {
-}
-```
-
-![Sphinx Header Top Text](./img/sphinx_header_top_text.png)
-
-```css
-.sphinx_header_logo {
-}
-```
-
-![Sphinx Header Logo](./img/sphinx_header_logo.png)
-
-```css
-.sphinx_header_links {
-}
-```
-
-![Sphinx Header Links](./img/sphinx_header_links.png)
+![Header](./fasty-assets/fasty_header.png)
 
 ### Footer
 
 ```css
 .default_footer {
 }
+
 .default_footer_links_container {
 }
 
@@ -503,7 +455,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Footer](./img/footer.png)
+![Footer](./fasty-assets/footer.png)
 
 ### Slider
 
@@ -528,8 +480,8 @@ The following classes are used for the global slider component so every slider i
 }
 ```
 
-![Slider](./img/global_slider.png)
-![slider-pagination](./img/slider_pagination.png)
+![Slider](./fasty-assets/global_slider.png)
+![slider-pagination](./fasty-assets/slider_pagination.png)
 
 ### Payments
 
@@ -559,7 +511,7 @@ The following classes are used for the global slider component so every slider i
 }
 ```
 
-![Payments](./img/payments.png)
+![Payments](./fasty-assets/payments.png)
 
 ## Thanks page
 
@@ -574,7 +526,7 @@ The following classes are used for the global slider component so every slider i
 }
 ```
 
-![Thanks Page](./img/thanks_page.png)
+![Thanks Page](./fasty-assets/thanks_page.png)
 
 ## Checkout page
 
@@ -601,4 +553,4 @@ The following classes are used for the global slider component so every slider i
 }
 ```
 
-![Checkout Page](./img/checkout.png)
+![Checkout Page](./fasty-assets/checkout.png)
