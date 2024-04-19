@@ -184,108 +184,26 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Product Price](./img/product_price.png)
+![Product Price](./fasty-assets/product_price.png)
 
 ### Product description
 
 ```css
+.product_tabs_container {
+}
+
 .product_description {
 }
 ```
 
-### Default product image
-
-```css
-.default_product_img {
-}
-
-.default_product_preview_img {
-}
-```
-
-![Product Image](./img/product_img.png)
-
-### Sphinx product image
-
-```css
-.sphinx_product_img {
-}
-```
-
-![Sphinx Product Image](./img/sphinx_product_img.png)
-
-### Product form checkout
-
-```css
-.product_form_checkout {
-}
-```
-
-![Form](./img/product_form_checkout.png)
-
-### Total shipping cost
-
-```css
-.total_shipping_container {
-}
-
-.total_shipping {
-}
-```
-
-![Total Shipping](./img/shipping_cost.png)
-
-### Total price
-
-```css
-.total_price_container {
-}
-
-.total_price {
-}
-```
-
-![Total Price](./img/total_price.png)
-
-### Fake Stock
-
-```css
-.fake_stock_container {
-}
-
-.fake_stock_progress {
-}
-
-.fake_stock_count {
-}
-```
-
-![Fake Stock](./img/fake_stock.png)
-
-### Fake visitors
-
-```css
-.fake_visitors_container {
-}
-```
-
-![Fake Visitors](./img/fake_visitors.png)
-
-### Products grid
-
-```css
-.products_grid_container {
-}
-
-.products_grid_card {
-}
-```
-
-![Product Page Products Grid](./img/products_grid.png)
+![Product Description](./fasty-assets/product_description.png)
 
 ### Product reviews
 
 ```css
+.product_tabs_container {
+}
+
 .reviews_container {
 }
 
@@ -308,7 +226,116 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Product Reviews](./img/reviews.png)
+![Product Reviews](./fasty-assets/reviews.png)
+
+### Product image
+
+```css
+.fasty_product_img {
+}
+
+.product_gallery_btns_container {
+}
+
+.product_gallery_wishlist_btn {
+}
+
+.product_gallery_share_btn {
+}
+```
+
+![Product Image](./fasty-assets/product_img.png)
+
+### Product form checkout
+
+```css
+.product_form_checkout {
+}
+```
+
+![Form](./fasty-assets/product_form_checkout.png)
+
+### Total shipping cost
+
+```css
+.total_shipping_container {
+}
+
+.total_shipping {
+}
+```
+
+![Total Shipping](./fasty-assets/shipping_cost.png)
+
+### Total price
+
+```css
+.total_price_container {
+}
+
+.total_price {
+}
+```
+
+![Total Price](./fasty-assets/total_price.png)
+
+### Fake Stock
+
+```css
+.fake_stock_container {
+}
+
+.fake_stock_progress {
+}
+
+.fake_stock_count {
+}
+```
+
+![Fake Stock](./fasty-assets/fake_stock.png)
+
+### Fake visitors
+
+```css
+.fake_visitors_container {
+}
+```
+
+![Fake Visitors](./fasty-assets/fake_visitors.png)
+
+### Products grid
+
+:::info
+The card classes are used in the global fasty card component
+:::
+
+```css
+.products_grid_container {
+}
+
+.fasty_product_card {
+}
+
+.fasty_product_card_img {
+}
+
+.fasty_product_card_name {
+}
+
+.fasty_product_card_price {
+}
+
+.fasty_product_card_btn_container {
+}
+
+.fasty_product_card_btn {
+}
+
+.fasty_product_card_wishlist_btn {
+}
+```
+
+![Product Page Products Grid](./fasty-assets/products_grid.png)
 
 ## Inputs, textarea
 
@@ -323,7 +350,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Inputs](./img/inputs.png)
+![Inputs](./fasty-assets/inputs.png)
 
 ## Buttons
 
@@ -337,7 +364,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Checkout Button](./img/button.png)
+![Checkout Button](./fasty-assets/button.png)
 
 ### Form button
 
@@ -346,7 +373,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Form Button](./img/form_button.png)
+![Form Button](./fasty-assets/form_button.png)
 
 ### Quantity button
 
@@ -358,7 +385,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Quantity Button](./img/quantity_btn.png)
+![Quantity Button](./fasty-assets/quantity_btn.png)
 
 ## Category page
 
@@ -372,7 +399,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Category Section Header](./img/category_section_header.png)
+![Category Section Header](./fasty-assets/category_section_header.png)
 
 ### Category products grid
 
@@ -384,7 +411,7 @@ The card classes are used in the global fasty card component
 }
 ```
 
-![Category Products Grid](./img/category_products_grid.png)
+![Category Products Grid](./fasty-assets/category_products_grid.png)
 
 ## Global
 
