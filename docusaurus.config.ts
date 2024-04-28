@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "EasyOrders Themes Docs",
   tagline: "EasyOrders Themes Documentation",
-  favicon: "img/easy-icon.png",
+  favicon: "https://www.easy-orders.net/easy-icon.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -61,7 +61,7 @@ const config: Config = {
       title: "Easy Orders",
       logo: {
         alt: "My Site Logo",
-        src: "img/easy-icon.png",
+        src: "https://www.easy-orders.net/easy-icon.png",
       },
       // items: [
       //   {
