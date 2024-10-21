@@ -72,6 +72,96 @@ The x-checkout-btn can be used without the `data-vvveb-disabled` attribute
 </div>
 ```
 
+### Render the product's images in the carousel
+
+#### create a div with the id `carouselExampleIndicators`
+
+```html
+<div
+  id="carouselExampleIndicators"
+  data-vvveb-disabled
+  data-ride="carousel"
+></div>
+```
+
+#### create a script tag with the id `gallery-template` as following
+
+```html
+<script id="gallery-template" type="text/html">
+  <div class="carousel-container">
+    {{# slides}}
+    <div class="carousel-item {{#isFirst}} active {{/isFirst}}">
+      <img class="d-block w-100" src="{{url}}" alt="" />
+    </div>
+    {{/ slides}}
+  </div>
+
+  <div>
+    <ol class="thumbnails-container">
+      {{# slides}}
+      <li
+        data-bs-target="#carouselExampleIndicators"
+        data-bs-slide-to="{{index}}"
+        class=" {{#isFirst}} active {{/isFirst}} thumbnail-item"
+      >
+        <img class="d-block object-fit-cover" src="{{url}}" alt="" />
+      </li>
+      {{/ slides}}
+    </ol>
+  </div>
+</script>
+```
+
+#### the final HTML structure should look like this
+
+```html
+<div>
+  <div
+    id="carouselExampleIndicators"
+    data-vvveb-disabled
+    data-ride="carousel"
+  ></div>
+
+  <script id="gallery-template" type="text/html">
+    <div class="carousel-container">
+      {{# slides}}
+      <div class="carousel-item {{#isFirst}} active {{/isFirst}}">
+        <img class="d-block w-100" src="{{url}}" alt="" />
+      </div>
+      {{/ slides}}
+    </div>
+
+    <div>
+      <ol class="thumbnails-container">
+        {{# slides}}
+        <li
+          data-bs-target="#carouselExampleIndicators"
+          data-bs-slide-to="{{index}}"
+          class=" {{#isFirst}} active {{/isFirst}} thumbnail-item"
+        >
+          <img class="d-block object-fit-cover" src="{{url}}" alt="" />
+        </li>
+        {{/ slides}}
+      </ol>
+    </div>
+  </script>
+</div>
+```
+
+:::info
+It will be replaced with the product's images automatically
+:::
+
+:::info
+use the `carousel-container` class to style the carousel and the `carousel-item` class to style the carousel-item.
+:::
+:::info
+You can use `thumbnails-container` class to style the thumbnails container and the `thumbnail-item` class to style the thumbnails.
+:::
+:::info
+The classes provided are for demonstration purposes only. Feel free to use any classes you prefer, but ensure the specified IDs remain unchanged.
+:::
+
 ## 3. Add the necessary scripts to the HTML file
 
 ```html
@@ -171,7 +261,7 @@ The total size of the html file or any other file should not exceed **80kb**
 :::
 
 :::warning
-Don't add internal css or js. instead, use external files you can go to [**Upload assets**](https://seller.easyorders.localhost/#/upload-assets) to upload your css and js files and then put the link in the head tag
+Don't add internal css or js. instead, use external files you can go to [**Upload assets**](https://seller.easy-orders.net/#/upload-assets) to upload your css and js files and then put the link in the head tag
 :::
 
 ### The base html template that you can start with
