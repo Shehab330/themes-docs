@@ -10,8 +10,12 @@ sidebar_position: 1
 
 #### 3. Go to [**https://seller.easy-orders.net/#/upload-assets**](https://seller.easy-orders.net/#/upload-assets) to upload your CSS file and copy the file link
 
+![Container](./img/upload_design_assets.png)
+
 #### 4. Go to [**https://seller.easy-orders.net/#/header-code**](https://seller.easy-orders.net/#/header-code) then paste and save the link in the following formate
 
 ```html
 <link rel="stylesheet" type="text/css" href="the link you copied" />
 ```
+
+![Container](./img/add_head_code.png)
