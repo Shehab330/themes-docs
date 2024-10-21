@@ -254,6 +254,18 @@ The classes provided are for demonstration purposes only. Feel free to use any c
 </script>
 ```
 
+## 4. Add your html code to the funnel code editor
+
+### Open any created funnel or create a new one
+
+#### Click on the funnel code editor
+
+![add html to funnel step 1](./img/add_html_to_funnel_1.png)
+
+#### Paste your html code
+
+![add html to funnel step 2](./img/add_html_to_funnel_2.png)
+
 ## summary
 
 :::warning
