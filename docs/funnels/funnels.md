@@ -301,6 +301,17 @@ Don't add internal css or js. instead, use external files you can go to [**Uploa
     <!-- fade-up animation [aos] -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
 
+    <!-- editor sections styles -->
+    <link
+      href="https://files.easy-orders.net/funnels-assets/sections-assets/css/style.css"
+      rel="stylesheet"
+    />
+    <!-- reviews file -->
+    <link
+      href="https://files.easy-orders.net/funnels-assets/reviews/css/style.css"
+      rel="stylesheet"
+    />
+
     <!-- Template Main CSS File -->
     <!-- add your external css link here -->
   </head>
