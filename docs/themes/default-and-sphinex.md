@@ -169,11 +169,10 @@ sidebar_position: 2
 ### Total shipping cost
 
 ```css
-<style>
-.shipping_cost_container {
-display: none;
+.total_shipping_container {
+    display: none;
 }
-</style>
+
 ```
 
 ![Total Shipping](./img/shipping_cost.png)
